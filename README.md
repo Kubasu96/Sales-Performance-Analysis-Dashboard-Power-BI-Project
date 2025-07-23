@@ -1,4 +1,4 @@
-# Sales Performance Analysis Dashboard – Power BI Project
+#  Sales Performance Analysis Dashboard – Power BI Project
 
 ##  Overview
 This Power BI dashboard provides an in-depth analysis of company sales performance across multiple years, categories, customers, and payment modes. It aims to equip stakeholders with actionable insights into revenue trends, profit margins, and customer behavior.
@@ -19,7 +19,7 @@ This Power BI dashboard provides an in-depth analysis of company sales performan
   - Credit and Debit Cards contribute over 40% of total revenue
   - EMI and COD are underperforming
 
-## Dashboard Highlights
+##  Dashboard Highlights
 - KPI Cards: Revenue, Profit, Quantity, and Profit Margin
 - Revenue breakdown by:
   - **Payment Mode**
@@ -30,23 +30,19 @@ This Power BI dashboard provides an in-depth analysis of company sales performan
 - Detailed customer table with filters for:
   - Year, State, Month, and Category
 
-## Tools Used
+##  Tools Used
 - **Power BI Desktop**
 - **Power Query** for ETL processes
 - **DAX** for custom measures and metrics
 
 ##  Project Files
--sales data.pdf 
+- [`sales_data.pdf`](./sales_20data.pdf): Static version of the Power BI dashboard  
 - `.pbix` file available upon request for interactive use
-  
+
 ##  Use Cases
 Perfect for demonstrating:
 - Business Intelligence and Sales Reporting skills
 - Dashboard storytelling
 - KPI-driven performance analysis
 
-##  Contact
-Let’s connect if you’re interested in exploring the .pbix version or collaborating on similar projects.
-
----
 
