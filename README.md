@@ -35,9 +35,9 @@ This Power BI dashboard provides an in-depth analysis of company sales performan
 - **Power Query** for ETL processes
 - **DAX** for custom measures and metrics
 
-##  Project Files
-- [`sales_data.pdf`](./sales_20data.pdf): Static version of the Power BI dashboard  
-- `.pbix` file available upon request for interactive use
+## 🖼️ Dashboard Preview
+
+![Sales Dashboard](../assets/screenshots/sales_data-1.png)
 
 ##  Use Cases
 Perfect for demonstrating:
